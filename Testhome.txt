@@ -1,2 +1,3 @@
 Hi planning to learn git commands
 Updated this git 
+sucessfully pushed 
